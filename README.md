@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently focusing on data engineering.
+🌱 I am learning data engineering because without it an ML model can not become production and many applications can not take the advantages of data in the big data era.
 
 :robot: I also pratice machine learning and try to understand how they work.
 ### Have a good day :relaxed: !
