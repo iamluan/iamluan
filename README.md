@@ -1,9 +1,12 @@
 ### Hi there 👋
-🌱 I am learning data engineering because without it a ML model can not become production and many applications can not take the advantages of data in the big data era.
-
-:robot: I also pratice machine learning and try to understand how they work.
-### Have a good day :relaxed: !
-
+- 🔭 I’m currently working on data engineering
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: https://www.linkedin.com/in/luan-nguyen-202828208/
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **luannt299/luannt299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
