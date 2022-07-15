@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on data
 - 🌱 I’m currently learning data enigeering, machine learning and deep learning
-- 📫 How to reach me: meisluan@gmail.com
 <!--
 **luannt299/luannt299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
