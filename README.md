@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning data enigeering, machine learning.
+- 🌱 I’m currently learning data enigeering and machine learning.
 <!--
 **luannt299/luannt299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
